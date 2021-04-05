@@ -4,8 +4,11 @@ Open Source Engineering Tools.
 FreeCAD - https://www.freecadweb.org/.  
 FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters.   
 
-blender - https://www.blender.org/
+blender - https://www.blender.org/.  
 Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+
+appleseed - https://appleseedhq.net/.  
+appleseed is an open source, physically-based global illumination rendering engine primarily designed for animation and visual effects.
 
 KiCAD - https://kicad.org/.  
 A Cross Platform and Open Source Electronics Design Automation Suite.  
@@ -20,3 +23,8 @@ https://www.modelica.org/ The Modelica Language is a non-proprietary, object-ori
 
 OpenModelica - https://www.openmodelica.org/.  
 OPENMODELICA is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
+
+
+Not so open source - but free for educational & hobby projects
+Simscale - https://www.simscale.com/
+Fusion 360 - https://www.autodesk.com/products/fusion-360/
