@@ -10,6 +10,9 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 appleseed - https://appleseedhq.net/.  
 appleseed is an open source, physically-based global illumination rendering engine primarily designed for animation and visual effects.
 
+Sverchok - https://github.com/alex-marinov/open-source-engineering-tools.git   
+Sverchok is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes.   
+
 KiCAD - https://kicad.org/.  
 A Cross Platform and Open Source Electronics Design Automation Suite.  
 
