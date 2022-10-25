@@ -6,6 +6,9 @@ FreeCAD is an open-source parametric 3D modeler made primarily to design real-li
 ## Open Cascade Technology - https://dev.opencascade.org/
 is an open-source software development platform for 3D CAD, CAM, CAE, etc. that is developed and supported by Open Cascade SAS.
 
+## Kratos - https://github.com/KratosMultiphysics/Kratos
+Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is written in C++ with extensive Python interface.
+
 ## Gmsh - https://gmsh.info/
 A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 
