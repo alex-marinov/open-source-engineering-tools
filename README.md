@@ -38,3 +38,6 @@ The Modelica Language is a non-proprietary, object-oriented, equation based lang
 
 ## OpenModelica - https://www.openmodelica.org/
 OPENMODELICA is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
+
+## Mattermost - https://mattermost.com/
+Mattermost is an open source platform for secure communication, collaboration, and orchestration of work across tools and teams.
